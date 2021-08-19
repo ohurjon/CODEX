@@ -2,7 +2,7 @@ package kr.ohurjon.problem.no8959;
 
 import java.util.Scanner;
 
-public class Main8958 {
+public class Main8959 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
